@@ -233,6 +233,12 @@ Common issues and solutions:
    - Verify power supply stability
    - Check for interference sources
 
+
+## Project Gallery
+
+![Alt_text](images/QuadCopterV1.jpeg) ![Alt_text](images/customBattery.jpeg)
+
+![Alt_text](images/customPCB.jpeg)  ![Alt_text](images/CleaningMechanismCad.jpeg)
 ## Contributing
 
 Feel free to contribute to this project by:
